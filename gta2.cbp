@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gta2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="gta2" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="alleg" />
+		</Linker>
+		<Unit filename="calculate_and_display.h" />
+		<Unit filename="check_key.h" />
+		<Unit filename="classes.h" />
+		<Unit filename="declarations_of_functions.h" />
+		<Unit filename="draw_map.h" />
+		<Unit filename="drawing_position.h" />
+		<Unit filename="game.h" />
+		<Unit filename="global_variables.h" />
+		<Unit filename="init_&amp;_de_init.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main_menu.h" />
+		<Unit filename="map.h" />
+		<Unit filename="options_menu.h" />
+		<Unit filename="play_menu.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="calculate_and_display.h" open="1" top="0" tabpos="2">
+		<Cursor position="381" topLine="0" />
+	</File>
+	<File name="check_key.h" open="1" top="0" tabpos="3">
+		<Cursor position="1807" topLine="57" />
+	</File>
+	<File name="classes.h" open="1" top="0" tabpos="10">
+		<Cursor position="936" topLine="46" />
+	</File>
+	<File name="declarations_of_functions.h" open="1" top="0" tabpos="4">
+		<Cursor position="220" topLine="0" />
+	</File>
+	<File name="draw_map.h" open="1" top="0" tabpos="5">
+		<Cursor position="4290" topLine="3" />
+	</File>
+	<File name="drawing_position.h" open="1" top="0" tabpos="11">
+		<Cursor position="1349" topLine="0" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="8">
+		<Cursor position="1206" topLine="20" />
+	</File>
+	<File name="global_variables.h" open="1" top="0" tabpos="7">
+		<Cursor position="938" topLine="0" />
+	</File>
+	<File name="init_&amp;_de_init.h" open="1" top="0" tabpos="6">
+		<Cursor position="126" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="469" topLine="0" />
+	</File>
+	<File name="main_menu.h" open="1" top="0" tabpos="9">
+		<Cursor position="35" topLine="2" />
+	</File>
+	<File name="options_menu.h" open="1" top="1" tabpos="13">
+		<Cursor position="58" topLine="2" />
+	</File>
+	<File name="play_menu.h" open="1" top="0" tabpos="12">
+		<Cursor position="55" topLine="2" />
+	</File>
+</CodeBlocks_layout_file>

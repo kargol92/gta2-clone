@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1365082130 source:d:\dokumenty karola\c++\gta2.19\main.cpp
+	<allegro.h>
+	<math.h>
+	<string>
+	"classes.h"
+	"global_variables.h"
+	"map.h"
+	"declarations_of_functions.h"
+	"init_&_de_init.h"
+	"drawing_position.h"
+	"draw_map.h"
+	"check_key.h"
+	"calculate_and_display.h"
+	"main_menu.h"
+	"play_menu.h"
+	"game.h"
+
+1364405274 d:\dokumenty karola\c++\gta2.19\global_variables.h
+
+1352555510 d:\dokumenty karola\c++\gta2.19\map.h
+
+1364169880 d:\dokumenty karola\c++\gta2.19\declarations_of_functions.h
+
+1364403519 d:\dokumenty karola\c++\gta2.19\init_&_de_init.h
+
+1364482688 d:\dokumenty karola\c++\gta2.19\drawing_position.h
+
+1364404310 d:\dokumenty karola\c++\gta2.19\draw_map.h
+
+1365082234 d:\dokumenty karola\c++\gta2.19\check_key.h
+
+1364402800 d:\dokumenty karola\c++\gta2.19\calculate_and_display.h
+
+1365082130 d:\dokumenty karola\c++\gta2.19\main_menu.h
+
+1365082130 d:\dokumenty karola\c++\gta2.19\play_menu.h
+
+1365082255 d:\dokumenty karola\c++\gta2.19\game.h
+
+1365082055 d:\dokumenty karola\c++\gta2.19\classes.h
+
+1365082332 source:d:\dokumenty karola\c++\gta2\main.cpp
+	<allegro.h>
+	<math.h>
+	<string>
+	"classes.h"
+	"global_variables.h"
+	"map.h"
+	"declarations_of_functions.h"
+	"init_&_de_init.h"
+	"drawing_position.h"
+	"draw_map.h"
+	"check_key.h"
+	"calculate_and_display.h"
+	"main_menu.h"
+	"play_menu.h"
+	"game.h"
+
+1365082055 d:\dokumenty karola\c++\gta2\classes.h
+
+1364405274 d:\dokumenty karola\c++\gta2\global_variables.h
+
+1352555510 d:\dokumenty karola\c++\gta2\map.h
+
+1364169880 d:\dokumenty karola\c++\gta2\declarations_of_functions.h
+
+1364403519 d:\dokumenty karola\c++\gta2\init_&_de_init.h
+
+1364482688 d:\dokumenty karola\c++\gta2\drawing_position.h
+
+1364404310 d:\dokumenty karola\c++\gta2\draw_map.h
+
+1365082332 d:\dokumenty karola\c++\gta2\check_key.h
+
+1364402800 d:\dokumenty karola\c++\gta2\calculate_and_display.h
+
+1365082332 d:\dokumenty karola\c++\gta2\main_menu.h
+
+1365082332 d:\dokumenty karola\c++\gta2\play_menu.h
+
+1365082332 d:\dokumenty karola\c++\gta2\game.h
+
